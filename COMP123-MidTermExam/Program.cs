@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 /**
  * Name: Christopher Ritchil 
  * Student id: 300702644
+ * Date Created: June 24, 2016
+ * Date Modified: June 24, 2016
  * Version 0.1.0
  * Description: This application demonstrate console application for lottery number picker
  */
